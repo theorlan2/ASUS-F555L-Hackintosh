@@ -8,7 +8,7 @@ This build running on MacOs X
 # Detail
 
     Version:    1
-    Date:       25/11/2018
+    Date:       02/12/2018
     Changelogs:
         - Using 10.14 for now
     
