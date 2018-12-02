@@ -1,0 +1,179 @@
+6:969  2:549  Found BIOS RSDP at FD990
+6:974  0:005  Printing ACPI tables from RSDP FD990 ...
+6:979  0:004   FD990: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+6:998  0:018    (Xsdt: A17590A8, Rsdt: A1759028)
+7:007  0:009    A17590A8: 'XSDT', 'Notebook', Rev: 1, Len: 212
+7:021  0:013    A1759028: 'RSDT', 'Notebook', Rev: 1, Len: 124
+7:035  0:013    Tables in Xsdt: 22
+7:039  0:004    0. A1774358: 'FACP', 'Notebook', Rev: 5, Len: 268
+7:053  0:013        (Dsdt: A1759210, Facs: A2455F80, XDsdt: A1759210, XFacs: 0)
+7:067  0:013        A1759210: 'DSDT', 'Notebook', Rev: 2, Len: 110915
+7:083  0:015        A2455F80: 'FACS', Ver: 2, Len: 64
+7:092  0:009    1. A1774468: 'APIC', 'Notebook', Rev: 3, Len: 132
+7:110  0:018    2. A17744F0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+7:124  0:013    3. A1774538: 'FIDT', 'Notebook', Rev: 1, Len: 156
+7:138  0:013    4. A17745D8: 'ECDT', 'Notebook', Rev: 1, Len: 193
+7:152  0:013    5. A17746A0: 'MCFG', 'Notebook', Rev: 1, Len: 60
+7:166  0:013    6. A17746E0: 'HPET', 'Notebook', Rev: 1, Len: 56
+7:180  0:013    7. A1774718: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+7:194  0:013    8. A1774A30: 'UEFI', '', Rev: 1, Len: 66
+7:207  0:013    9. A1774A78: 'SSDT', 'zpodd', Rev: 1, Len: 404
+7:226  0:018    10. A1774C10: 'LPIT', '', Rev: 1, Len: 148
+7:240  0:013    11. A1774CA8: 'ASF!', ' HCG', Rev: 32, Len: 160
+7:263  0:023    12. A1774D48: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+7:277  0:013    13. A1775288: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+7:291  0:013    14. A1775E00: 'SSDT', 'DptfTabl', Rev: 2, Len: 12869
+7:305  0:013    15. A1779048: 'SSDT', 'CppcTabl', Rev: 2, Len: 916
+7:319  0:013    16. A17793E0: 'PCCT', 'PcctTabl', Rev: 5, Len: 110
+7:332  0:013    17. A1779450: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+7:351  0:018    18. A1779F18: 'SSDT', 'SaSsdt', Rev: 2, Len: 27611
+7:365  0:013    19. A1780AF8: 'BGRT', 'Notebook', Rev: 1, Len: 56
+7:379  0:013    20. A1780B30: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+7:392  0:013    21. A0AF5E18: 'MSDM', 'Notebook', Rev: 3, Len: 85
+7:406  0:013    Tables in Rsdt: 22
+7:411  0:004    0. A1759188: 'FACP', 'Notebook', Rev: 2, Len: 132
+7:425  0:013        (Dsdt: A1759210, Facs: A2455F40)
+7:434  0:009        A1759210: 'DSDT', 'Notebook', Rev: 2, Len: 110915
+7:455  0:020        A2455F40: 'FACS', Ver: 0, Len: 64
+7:464  0:009    1. A1774468: 'APIC', 'Notebook', Rev: 3, Len: 132
+7:478  0:013    2. A17744F0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+7:491  0:013    3. A1774538: 'FIDT', 'Notebook', Rev: 1, Len: 156
+7:505  0:013    4. A17745D8: 'ECDT', 'Notebook', Rev: 1, Len: 193
+7:519  0:013    5. A17746A0: 'MCFG', 'Notebook', Rev: 1, Len: 60
+7:533  0:013    6. A17746E0: 'HPET', 'Notebook', Rev: 1, Len: 56
+7:547  0:013    7. A1774718: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+7:565  0:018    8. A1774A30: 'UEFI', '', Rev: 1, Len: 66
+7:579  0:013    9. A1774A78: 'SSDT', 'zpodd', Rev: 1, Len: 404
+7:593  0:013    10. A1774C10: 'LPIT', '', Rev: 1, Len: 148
+7:607  0:013    11. A1774CA8: 'ASF!', ' HCG', Rev: 32, Len: 160
+7:621  0:013    12. A1774D48: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+7:635  0:013    13. A1775288: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+7:648  0:013    14. A1775E00: 'SSDT', 'DptfTabl', Rev: 2, Len: 12869
+7:662  0:013    15. A1779048: 'SSDT', 'CppcTabl', Rev: 2, Len: 916
+7:681  0:018    16. A17793E0: 'PCCT', 'PcctTabl', Rev: 5, Len: 110
+7:695  0:013    17. A1779450: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+7:708  0:013    18. A1779F18: 'SSDT', 'SaSsdt', Rev: 2, Len: 27611
+7:722  0:013    19. A1780AF8: 'BGRT', 'Notebook', Rev: 1, Len: 56
+7:736  0:013    20. A1780B30: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+7:750  0:013    21. A0AF5E18: 'MSDM', 'Notebook', Rev: 3, Len: 85
+7:764  0:013  Found UEFI Acpi 2.0 RSDP at A1759000
+7:773  0:009  Saving ACPI tables from RSDP A1759000 to EFI\CLOVER\ACPI\origin ...
+7:778  0:004   A1759000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+7:808  0:030    (Xsdt: A17590A8, Rsdt: A1759028)
+7:813  0:004    A17590A8: 'XSDT', 'Notebook', Rev: 1, Len: 212 -> XSDT.aml
+7:838  0:025    A1759028: 'RSDT', 'Notebook', Rev: 1, Len: 124 -> RSDT.aml
+7:864  0:025    Tables in Xsdt: 22
+7:869  0:004    0. A1774358: 'FACP', 'Notebook', Rev: 5, Len: 268 -> FACP.aml
+7:894  0:025        (Dsdt: A1759210, Facs: A2455F80, XDsdt: A1759210, XFacs: 0)
+7:913  0:018        A1759210: 'DSDT', 'Notebook', Rev: 2, Len: 110915 -> DSDT.aml
+7:943  0:029        A2455F80: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+7:964  0:021    1. A1774468: 'APIC', 'Notebook', Rev: 3, Len: 132 -> APIC.aml
+7:990  0:025    2. A17744F0: 'FPDT', 'Notebook', Rev: 1, Len: 68 -> FPDT.aml
+8:015  0:025    3. A1774538: 'FIDT', 'Notebook', Rev: 1, Len: 156 -> FIDT.aml
+8:041  0:025    4. A17745D8: 'ECDT', 'Notebook', Rev: 1, Len: 193 -> ECDT.aml
+8:072  0:030    5. A17746A0: 'MCFG', 'Notebook', Rev: 1, Len: 60 -> MCFG.aml
+8:098  0:025    6. A17746E0: 'HPET', 'Notebook', Rev: 1, Len: 56 -> HPET.aml
+8:123  0:025    7. A1774718: 'SSDT', 'SataTabl', Rev: 1, Len: 789 -> SSDT-0-SataTabl.aml
+8:153  0:029    8. A1774A30: 'UEFI', '', Rev: 1, Len: 66 -> UEFI.aml
+8:178  0:025    9. A1774A78: 'SSDT', 'zpodd', Rev: 1, Len: 404 -> SSDT-1-zpodd.aml
+8:204  0:025    10. A1774C10: 'LPIT', '', Rev: 1, Len: 148 -> LPIT.aml
+8:229  0:025    11. A1774CA8: 'ASF!', ' HCG', Rev: 32, Len: 160 -> ASF!.aml
+8:259  0:029    12. A1774D48: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337 -> SSDT-2-Cpu0Ist.aml
+8:284  0:025    13. A1775288: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932 -> SSDT-3-CpuSsdt.aml (Found hidden SSDT 4 pcs)
+8:310  0:026        * 9F93D018: '', '˜ÊŠŸ', Rev: 0, Len: 0  00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+8:393  0:083        * A0AB8618: 'SSDT', 'ApIst', Rev: 2, Len: 1450  53 53 44 54 AA 05 00 00 02 CE 50 6D 52 65 66 00 Internal length = 1450 -> SSDT-x3_0-ApIst.aml
+8:498  0:104        * A0AB7918: 'SSDT', 'Cpu0Cst', Rev: 2, Len: 979  53 53 44 54 D3 03 00 00 02 AE 50 6D 52 65 66 00 Internal length = 979 -> SSDT-x3_1-Cpu0Cst.aml
+8:599  0:101        * A0AB9C18: 'SSDT', 'ApCst', Rev: 2, Len: 281  53 53 44 54 19 01 00 00 02 EA 50 6D 52 65 66 00 Internal length = 281 -> SSDT-x3_2-ApCst.aml
+8:700  0:100  
+8:704  0:004    14. A1775E00: 'SSDT', 'DptfTabl', Rev: 2, Len: 12869 -> SSDT-4-DptfTabl.aml
+8:730  0:025    15. A1779048: 'SSDT', 'CppcTabl', Rev: 2, Len: 916 -> SSDT-5-CppcTabl.aml
+8:760  0:029    16. A17793E0: 'PCCT', 'PcctTabl', Rev: 5, Len: 110 -> PCCT.aml
+8:785  0:025    17. A1779450: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756 -> SSDT-6-Cpc_Tabl.aml
+8:810  0:025    18. A1779F18: 'SSDT', 'SaSsdt', Rev: 2, Len: 27611 -> SSDT-7-SaSsdt.aml
+8:838  0:028    19. A1780AF8: 'BGRT', 'Notebook', Rev: 1, Len: 56 -> BGRT.aml
+8:864  0:025    20. A1780B30: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52 -> TPM2.aml
+8:889  0:025    21. A0AF5E18: 'MSDM', 'Notebook', Rev: 3, Len: 85 -> MSDM.aml
+8:919  0:029    Tables in Rsdt: 22
+8:923  0:004    0. A1759188: 'FACP', 'Notebook', Rev: 2, Len: 132 -> RSDT-FACP.aml
+8:949  0:025        (Dsdt: A1759210, Facs: A2455F40)
+8:958  0:009        A1759210: 'DSDT', 'Notebook', Rev: 2, Len: 110915
+8:974  0:015        A2455F40: 'FACS', Ver: 0, Len: 64 -> RSDT-FACS.aml
+8:994  0:020    1. A1774468: 'APIC', 'Notebook', Rev: 3, Len: 132
+9:008  0:013    2. A17744F0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+9:022  0:013    3. A1774538: 'FIDT', 'Notebook', Rev: 1, Len: 156
+9:040  0:018    4. A17745D8: 'ECDT', 'Notebook', Rev: 1, Len: 193
+9:054  0:013    5. A17746A0: 'MCFG', 'Notebook', Rev: 1, Len: 60
+9:068  0:013    6. A17746E0: 'HPET', 'Notebook', Rev: 1, Len: 56
+9:082  0:013    7. A1774718: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+9:096  0:013    8. A1774A30: 'UEFI', '', Rev: 1, Len: 66
+9:110  0:013    9. A1774A78: 'SSDT', 'zpodd', Rev: 1, Len: 404
+9:123  0:013    10. A1774C10: 'LPIT', '', Rev: 1, Len: 148
+9:137  0:013    11. A1774CA8: 'ASF!', ' HCG', Rev: 32, Len: 160
+9:156  0:018    12. A1774D48: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+9:170  0:013    13. A1775288: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+9:183  0:013    14. A1775E00: 'SSDT', 'DptfTabl', Rev: 2, Len: 12869
+9:197  0:013    15. A1779048: 'SSDT', 'CppcTabl', Rev: 2, Len: 916
+9:211  0:013    16. A17793E0: 'PCCT', 'PcctTabl', Rev: 5, Len: 110
+9:225  0:013    17. A1779450: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+9:239  0:013    18. A1779F18: 'SSDT', 'SaSsdt', Rev: 2, Len: 27611
+9:253  0:013    19. A1780AF8: 'BGRT', 'Notebook', Rev: 1, Len: 56
+9:271  0:018    20. A1780B30: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+9:285  0:013    21. A0AF5E18: 'MSDM', 'Notebook', Rev: 3, Len: 85
+9:299  0:013  Found UEFI Acpi 1.0 RSDP at A1759000
+9:304  0:004  Printing ACPI tables from RSDP A1759000 ...
+9:308  0:004   A1759000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+9:327  0:018    (Xsdt: A17590A8, Rsdt: A1759028)
+9:351  0:024    A17590A8: 'XSDT', 'Notebook', Rev: 1, Len: 212
+9:365  0:013    A1759028: 'RSDT', 'Notebook', Rev: 1, Len: 124
+9:383  0:018    Tables in Xsdt: 22
+9:388  0:004    0. A1774358: 'FACP', 'Notebook', Rev: 5, Len: 268
+9:402  0:013        (Dsdt: A1759210, Facs: A2455F80, XDsdt: A1759210, XFacs: 0)
+9:416  0:013        A1759210: 'DSDT', 'Notebook', Rev: 2, Len: 110915
+9:432  0:015        A2455F80: 'FACS', Ver: 2, Len: 64
+9:441  0:009    1. A1774468: 'APIC', 'Notebook', Rev: 3, Len: 132
+9:455  0:013    2. A17744F0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+9:469  0:013    3. A1774538: 'FIDT', 'Notebook', Rev: 1, Len: 156
+9:487  0:018    4. A17745D8: 'ECDT', 'Notebook', Rev: 1, Len: 193
+9:511  0:023    5. A17746A0: 'MCFG', 'Notebook', Rev: 1, Len: 60
+9:524  0:013    6. A17746E0: 'HPET', 'Notebook', Rev: 1, Len: 56
+9:538  0:013    7. A1774718: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+9:562  0:023    8. A1774A30: 'UEFI', '', Rev: 1, Len: 66
+9:576  0:013    9. A1774A78: 'SSDT', 'zpodd', Rev: 1, Len: 404
+9:590  0:013    10. A1774C10: 'LPIT', '', Rev: 1, Len: 148
+9:613  0:023    11. A1774CA8: 'ASF!', ' HCG', Rev: 32, Len: 160
+9:632  0:018    12. A1774D48: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+9:647  0:014    13. A1775288: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+9:671  0:023    14. A1775E00: 'SSDT', 'DptfTabl', Rev: 2, Len: 12869
+9:685  0:013    15. A1779048: 'SSDT', 'CppcTabl', Rev: 2, Len: 916
+9:698  0:013    16. A17793E0: 'PCCT', 'PcctTabl', Rev: 5, Len: 110
+9:712  0:013    17. A1779450: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+9:726  0:013    18. A1779F18: 'SSDT', 'SaSsdt', Rev: 2, Len: 27611
+9:745  0:018    19. A1780AF8: 'BGRT', 'Notebook', Rev: 1, Len: 56
+9:758  0:013    20. A1780B30: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+9:782  0:023    21. A0AF5E18: 'MSDM', 'Notebook', Rev: 3, Len: 85
+9:796  0:013    Tables in Rsdt: 22
+9:801  0:004    0. A1759188: 'FACP', 'Notebook', Rev: 2, Len: 132
+9:815  0:013        (Dsdt: A1759210, Facs: A2455F40)
+9:834  0:019        A1759210: 'DSDT', 'Notebook', Rev: 2, Len: 110915
+9:849  0:015        A2455F40: 'FACS', Ver: 0, Len: 64
+9:859  0:009    1. A1774468: 'APIC', 'Notebook', Rev: 3, Len: 132
+9:877  0:018    2. A17744F0: 'FPDT', 'Notebook', Rev: 1, Len: 68
+9:891  0:013    3. A1774538: 'FIDT', 'Notebook', Rev: 1, Len: 156
+9:905  0:013    4. A17745D8: 'ECDT', 'Notebook', Rev: 1, Len: 193
+9:919  0:013    5. A17746A0: 'MCFG', 'Notebook', Rev: 1, Len: 60
+9:942  0:023    6. A17746E0: 'HPET', 'Notebook', Rev: 1, Len: 56
+9:956  0:013    7. A1774718: 'SSDT', 'SataTabl', Rev: 1, Len: 789
+9:970  0:013    8. A1774A30: 'UEFI', '', Rev: 1, Len: 66
+9:984  0:013    9. A1774A78: 'SSDT', 'zpodd', Rev: 1, Len: 404
+10:012  0:028    10. A1774C10: 'LPIT', '', Rev: 1, Len: 148
+10:026  0:013    11. A1774CA8: 'ASF!', ' HCG', Rev: 32, Len: 160
+10:040  0:013    12. A1774D48: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1337
+10:054  0:013    13. A1775288: 'SSDT', 'CpuSsdt', Rev: 2, Len: 2932
+10:067  0:013    14. A1775E00: 'SSDT', 'DptfTabl', Rev: 2, Len: 12869
+10:081  0:013    15. A1779048: 'SSDT', 'CppcTabl', Rev: 2, Len: 916
+10:095  0:013    16. A17793E0: 'PCCT', 'PcctTabl', Rev: 5, Len: 110
+10:114  0:018    17. A1779450: 'SSDT', 'Cpc_Tabl', Rev: 2, Len: 2756
+10:128  0:013    18. A1779F18: 'SSDT', 'SaSsdt', Rev: 2, Len: 27611
+10:141  0:013    19. A1780AF8: 'BGRT', 'Notebook', Rev: 1, Len: 56
+10:165  0:023    20. A1780B30: 'TPM2', 'Tpm2Tabl', Rev: 3, Len: 52
+10:179  0:013    21. A0AF5E18: 'MSDM', 'Notebook', Rev: 3, Len: 85
